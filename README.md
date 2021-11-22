@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web development using react, dotnet core, gatsby.
+- 🔭 I’m currently working on web development using react, dotnet core, next.js.
 - 👯 I’m looking to collaborate on basic ML, data analysis or analytics.
 - 🌱 I’m currently learning swift UI development.
 
