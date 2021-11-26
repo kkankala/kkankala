@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web development using react, dotnet core, next.js.
 - 👯 I’m looking to collaborate on basic ML, data analysis or analytics.
-- 🌱 I’m currently learning swift UI development.
+- 🌱 I’m currently learning `Rust` languague.
 
 ![Kalyan's github stats](https://github-readme-stats.vercel.app/api?username=kkankala&show_icons=true)
 
